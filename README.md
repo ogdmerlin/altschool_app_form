@@ -1,5 +1,5 @@
-#ALTSCHOOL ASSIGNMENT
+# ALTSCHOOL ASSIGNMENT
 
-#An about me page.
+# An about me page.
 
-#Altschoo registration form.
+# Altschoo registration form.
